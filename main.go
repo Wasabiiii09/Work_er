@@ -15,4 +15,8 @@ func main(){
 	Texts := []string{"Kerim", "Damir"}
 	fmt.Println(Texts[1])
 
+	for name := range Texts {
+		fmt.Println(name)
+	}
+
 }
