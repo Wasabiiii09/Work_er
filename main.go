@@ -5,5 +5,10 @@ import (
 )
 
 func main(){
-	fmt.Println("Hallo")
+	fmt.Println("Welcome")
+	number := 0
+	for number < 10 {
+		number++ 
+	}
+
 }
