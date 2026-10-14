@@ -6,9 +6,13 @@ import (
 
 func main(){
 	fmt.Println("Welcome")
-	number := 0
-	for number < 10 {
+	number := 1
+	for number < 11 {
+		fmt.Println(number)
 		number++ 
 	}
+
+	Texts := []string{"Kerim", "Damir"}
+	fmt.Println(Texts[1])
 
 }
