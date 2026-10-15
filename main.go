@@ -24,4 +24,10 @@ func main(){
 		fmt.Println("Hallo")
 	}
 
+	fmt.Print("Command")
+	fmt.Print("Command")
+	fmt.Print("Command")
+	fmt.Print("Command")
+	fmt.Print("Command")
+	fmt.Print("Command")
 }
