@@ -19,4 +19,9 @@ func main(){
 		fmt.Println(name)
 	}
 
+	username := "Kerim"
+	if username == "Kreim" {
+		fmt.Println("Hallo")
+	}
+
 }
