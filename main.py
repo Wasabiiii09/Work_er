@@ -11,3 +11,4 @@ number = 0
 if(kerim == "gut"):
     number += 1
 print(number) 
+print ("This is the end of the script.")
