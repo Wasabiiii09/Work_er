@@ -15,19 +15,4 @@ func main(){
 	Texts := []string{"Kerim", "Damir"}
 	fmt.Println(Texts[1])
 
-	for name := range Texts {
-		fmt.Println(name)
-	}
-
-	username := "Kerim"
-	if username == "Kreim" {
-		fmt.Println("Hallo")
-	}
-
-	fmt.Print("Command")
-	fmt.Print("Command")
-	fmt.Print("Command")
-	fmt.Print("Command")
-	fmt.Print("Command")
-	fmt.Print("Command")
 }
