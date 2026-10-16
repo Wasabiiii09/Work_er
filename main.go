@@ -15,4 +15,9 @@ func main(){
 	Texts := []string{"Kerim", "Damir"}
 	fmt.Println(Texts[1])
 
+	fmt.Println("asdfadsfadsfadsfasdf")
+	fmt.Println("asdfadsfadsfadsfasdf")
+	fmt.Println("asdfadsfadsfadsfasdf")
+	fmt.Println("asdfadsfadsfadsfasdf")
+
 }
